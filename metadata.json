@@ -1,0 +1,6 @@
+{
+  "name": "IMDb Top 100 Sticker Remix",
+  "description": "IMDb Top 100 Trending Stars with custom sticker overrides and position swapper, ready for GitHub and Vercel deploy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
